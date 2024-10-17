@@ -77,7 +77,7 @@ banyak korban,tapi aku tetap memutuskan untuk menjelajahinya,yaa sapa tau dapat 
             print("\nsepertinya aku tersesat di hutan dan\n")
             break
 
-# sebuah menu untuk gelut dengan si slime
+# sebuah menu untuk gelut dengan si ambatron
 def melawan_ambatron():
     nyawa = 100
     # agar damage dari kestria dan penyihir bisa beda
@@ -107,8 +107,8 @@ jadi aku pun mencoba ke luar dari dungeon ini
     os.system('cls')
     print("""dalam perjalanan keluar dari dungeon ini,aku tidak sengaja bertemu dengan sebuah monster dengan kepala manusia
 berbadan robot,dari rumor yang kudapat,monster tersebut bernama ambatron,sebuah monster paling kuat di dunia ini,
-bahkan raja iblis pun ketar-ketir melihat sosok agung sang ambatron,dan aku pun tak ada pilihan tak ada pilihan 
-lain selain harus melawannya,karena dia menghalangi jalan keluar dari dungeon ini
+bahkan raja iblis pun ketar-ketir melihat sosok agung sang ambatron,dan aku pun tak ada pilihan lain selain harus
+melawannya,karena dia menghalangi jalan keluar dari dungeon ini
 """)
     input("klik enter untuk lanjut") 
     os.system('cls')
